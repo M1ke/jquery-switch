@@ -13,7 +13,7 @@
         }
     ],
     "dependencies": {
-        "jquery": "/home/m1ke/web/lib/js/jquery/.git"
+       "jquery": "https://github.com/m1ke/jquery-bower.git"
     },
     "description": "A flexible and good-looking iOS-inspired slide/toggle widget",
     "keywords": [
